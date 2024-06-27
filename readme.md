@@ -3,6 +3,16 @@
 - Linkedin Profile: https://www.linkedin.com/in/toktamkhatibi77271683/
 - Google Scholar Profile: https://scholar.google.com/citations?user=qmy_4oEAAAAJ&hl=en
 
+# Top Projects
+## Computer Vision and Medical Image Analysis
+- Endoscopic Image Segmentation: https://github.com/toktamk/EndoscopicImageSegmentation
+- Brain MRI Analysis: https://github.com/toktamk/BrainMRIAnalysis
+- Echocardiogram Data Analysis: https://github.com/toktamk/EchocardiogramDataAnalysis
+## NLP
+- Sentiment Analysis on Patients' Opinions about Hospital Care Services
+## Clinical Data Analysis
+- Maternal and Prenatal Data Analysis
+
 # Summary
  Highly experienced and accomplished Associate Professor of Data Science with over 10 years of academic and research experience in data science and machine learning with special emphasis on healthcare data analytics. Proficient in leading research projects, mentoring students, and publishing peer-reviewed articles. Strong background in computer engineering and software engineering, with a Ph.D. in Industrial Engineering from a top-10 university in the country.
 
