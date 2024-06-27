@@ -9,11 +9,11 @@
 - Brain MRI Analysis: https://github.com/toktamk/BrainMRIAnalysis
 - Echocardiogram Data Analysis: https://github.com/toktamk/EchocardiogramDataAnalysis
 ## NLP
-- Sentiment Analysis on Patients' Opinions about Hospital Care Services
+- Sentiment Analysis on Patients' Opinions about Hospital Care Services: https://github.com/toktamk/NLP
 ## Generative AI
-- Generating Super-Resolution Images from Low-Resolution Images of Skin Disorders
+- Generating Super-Resolution Images from Low-Resolution Images of Skin Disorders: https://github.com/toktamk/Generative-AI
 ## Health and Clinical Data Analysis
-- Maternal and Prenatal Data Analysis
+- Maternal and Prenatal Data Analysis: https://github.com/toktamk/Health_Clinical_Data_Analysis
 
 # Summary
  Highly experienced and accomplished Associate Professor of Data Science with over 10 years of academic and research experience in data science and machine learning with special emphasis on healthcare data analytics. Proficient in leading research projects, mentoring students, and publishing peer-reviewed articles. Strong background in computer engineering and software engineering, with a Ph.D. in Industrial Engineering from a top-10 university in the country.
