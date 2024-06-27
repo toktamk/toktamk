@@ -66,6 +66,7 @@
 ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
 # Publications 
+## Peer-Reviewed Journal Articles
 1.	Emotion Recognition from Electroencephalogram Signals based on Deep Neural Networks, International Journal of Bioinformatics and Intelligent Computing, 2023, 2(2), 212-230 (with PR Yeganeh, Nouri A and Khanteymoori A)
 2.	Combining CNNs and 2-D visualization method for GI tract lesions classification, Multimedia Tools and Applications, 2023, (with SA Nezhad and M Sohrabi)
 3.	Student performance prediction using datamining classification algorithms: Evaluating generalizability of models from geographical aspect, Education and Information Technologies, 2023, (with A Parhizkar and G Tajeddin)
@@ -112,5 +113,18 @@
 44.	Risk management based approach for identification and ranking of surgical cancellation factors using Fuzzy FMEA, International journal of hospital research (indexed in ISC), 2013, 2(1): 17-24, (with Roghiyeh Khasha and Mohammad Mehdi Sepehri).
 45.	Fuzzy FMEA application to improve workflow in operating rooms, Journal of industrial engineering (JIENG) (indexed in ISC), 2013, 47 (2): 135-147, (with Roghiyeh Khasha, Mohammad Mehdi Sepehri and Alireza Soroush) 
 46.	A Fuzzy FMEA approach to prioritize surgical cancellation factors, International Journal of Hospital Research, 2013, 2(1): 17-24 (with R Khasha and MM Sepehri) 
+## Conference Proceedings
+1. A framework for monitoring patients in the recovery room using Kinect, 11th international industrial engineering conference (IIEC 2015), Iran, 2015, (with Mohammad Mehdi Sepehri and Hamed Mollaei)
+2. 0-1 Mathematical programming models for laparoscopic activity recognition, 9th international industrial engineering conference (IIEC 2013), Iran, 2013, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
+3. Laparoscopic instrument detection with a new image segmentation algorithm (GNSTIS), The first international conference on Electronic health, Iran, 2012, (with Mohammad Mehdi Sepehri and Pejman,Shadpour).
+4. Time series representation and clustering with directional distance based features (DDBF), 9th international conference on electronics, computer and computation (ICECCO), Turkey, 2012, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
+5. Design a comprehensive framework for evaluationg the readiness of starting surgical operation based on surgical cancellation reduction, The first international conference on Electronic health, Iran, 2012, (with Roghiyeh Khasha and Mohammad Mehdi Sepehri).
+6. Devising Novel Algorithms for Information Extraction from Live Laparoscopic Imaging, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Pejman Shadpour and Mohammad Mehdi Sepehri).
+7. Enhancing the Process of Image Recording Through Intelligent Analysis of Motion in the Camera and Laparoscopic Instruments, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Shadpour Pejman and Mohammad Mehdi Sepehri).
+## Academic book
+Ontologies: Methodologies, Tools and Languages, Tarbiat modares university press, 2011, (with Asoushe Abbas, Mehrasa Shohreh, Khakshour Saadat Parisa). 
+## Book Chapters
+1.	New Features Extracted from Renal Stone NCCT Images to Predict Retreatment After Shockwave Lithotripsy (SWL), In: Elham Akhondzadeh Noughabi, Bijan Rahemi, Amir Albadvi and Behrooz H. Far.(ed.), Handbook of Research on Data Science for Effective Healthcare Practice and Administration, IGI Global, 2018, 296-316, (with Mohammad Mehdi Sepehri, Mohammad Javad Soleimani and Pejman Shadpour).
+2.	Applications of Image Processing in Laparoscopic Surgeries: An Overview, In: Elham Akhondzadeh Noughabi, Bijan Rahemi, Amir Albadvi and Behrooz H. Far.(ed.), Handbook of Research on Data Science for Effective Healthcare Practice and Administration, IGI Global, 2018, 317-344, (with Mohammad Mehdi Sepehri, Pejman Shadpour and Seyyed Hesamoddin Zegordi).
 
 
