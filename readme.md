@@ -1,5 +1,9 @@
 # Hi, I'm Toktam.
- 
+- Email: toktamk@gmail.com
+- Linkedin Profile: https://www.linkedin.com/in/toktamkhatibi77271683/
+- Google Scholar Profile: https://scholar.google.com/citations?user=qmy_4oEAAAAJ&hl=en
+
+# Summary
  Highly experienced and accomplished Associate Professor of Data Science with over 10 years of academic and research experience in data science and machine learning with special emphasis on healthcare data analytics. Proficient in leading research projects, mentoring students, and publishing peer-reviewed articles. Strong background in computer engineering and software engineering, with a Ph.D. in Industrial Engineering from a top-10 university in the country.
 
 # Education:
