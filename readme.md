@@ -10,7 +10,9 @@
 - Echocardiogram Data Analysis: https://github.com/toktamk/EchocardiogramDataAnalysis
 ## NLP
 - Sentiment Analysis on Patients' Opinions about Hospital Care Services
-## Clinical Data Analysis
+## Generative AI
+- Generating Super-Resolution Images from Low-Resolution Images of Skin Disorders
+## Health and Clinical Data Analysis
 - Maternal and Prenatal Data Analysis
 
 # Summary
