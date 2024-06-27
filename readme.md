@@ -130,13 +130,20 @@
 49.	Fuzzy FMEA application to improve workflow in operating rooms, Journal of industrial engineering (JIENG) (indexed in ISC), 2013, 47 (2): 135-147, (with Roghiyeh Khasha, Mohammad Mehdi Sepehri and Alireza Soroush) 
 50.	A Fuzzy FMEA approach to prioritize surgical cancellation factors, International Journal of Hospital Research, 2013, 2(1): 17-24 (with R Khasha and MM Sepehri) 
 ## Conference Proceedings
-1. A framework for monitoring patients in the recovery room using Kinect, 11th international industrial engineering conference (IIEC 2015), Iran, 2015, (with Mohammad Mehdi Sepehri and Hamed Mollaei)
-2. 0-1 Mathematical programming models for laparoscopic activity recognition, 9th international industrial engineering conference (IIEC 2013), Iran, 2013, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
-3. Laparoscopic instrument detection with a new image segmentation algorithm (GNSTIS), The first international conference on Electronic health, Iran, 2012, (with Mohammad Mehdi Sepehri and Pejman,Shadpour).
-4. Time series representation and clustering with directional distance based features (DDBF), 9th international conference on electronics, computer and computation (ICECCO), Turkey, 2012, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
-5. Design a comprehensive framework for evaluationg the readiness of starting surgical operation based on surgical cancellation reduction, The first international conference on Electronic health, Iran, 2012, (with Roghiyeh Khasha and Mohammad Mehdi Sepehri).
-6. Devising Novel Algorithms for Information Extraction from Live Laparoscopic Imaging, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Pejman Shadpour and Mohammad Mehdi Sepehri).
-7. Enhancing the Process of Image Recording Through Intelligent Analysis of Motion in the Camera and Laparoscopic Instruments, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Shadpour Pejman and Mohammad Mehdi Sepehri).
+1. Diabetes Prediction using Machine Learning Models, The 9th International Conference on Industrial and Systems Engineering, 2024, (with A Nasrollahpour)
+2. Investigating and analyzing social happiness and well-being in different countries of the world based on unsupervised learning methods, 10th International Conference on Recent Advances in Industrial Management, 2022 (with M Sharifi)
+3. Using Data Mining Algorithms for Classifying Gastrointestinal Lesions, 14th International Conference of Iranian Operations Research Society, 2022 (with S AyoubiNezhad)
+4. Analysis and Identifying the Main Factors of Death in Countries based on Data Mining Methods, 10th International Conference on Recent Advances in Industrial Management, 2022 (with M Sharifi)
+5. Assessing the Impact of Weather Conditions on Seasonal Pollution in Tehran, Second International Conference on Industrial Engineering, Productivity, 2020 (with E Hanifi, M Sharifi, A Vosough, MM Sepehri)
+6. Comparing the Performance of Predicting Hospital Admission Rate due to Cardiovascular, mental and Allergic disorders based on Air Pollution Indices, 16th International Conference on Industrial Engineering, 2020 (with Z Ghaderi)
+7. A review on Analyzing Data of Endometriosis from perspectives of Disease, Patient and Treatment Procedure, 16th International Conference on Industrial Engineering, 2020 (with E Hanifi, S Chaichian, L Allahqoli)
+8. A framework for monitoring patients in the recovery room using Kinect, 11th international industrial engineering conference (IIEC 2015), Iran, 2015, (with Mohammad Mehdi Sepehri and Hamed Mollaei)
+9. 0-1 Mathematical programming models for laparoscopic activity recognition, 9th international industrial engineering conference (IIEC 2013), Iran, 2013, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
+10. Laparoscopic instrument detection with a new image segmentation algorithm (GNSTIS), The first international conference on Electronic health, Iran, 2012, (with Mohammad Mehdi Sepehri and Pejman,Shadpour).
+11. Time series representation and clustering with directional distance based features (DDBF), 9th international conference on electronics, computer and computation (ICECCO), Turkey, 2012, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
+12. Design a comprehensive framework for evaluationg the readiness of starting surgical operation based on surgical cancellation reduction, The first international conference on Electronic health, Iran, 2012, (with Roghiyeh Khasha and Mohammad Mehdi Sepehri).
+13. Devising Novel Algorithms for Information Extraction from Live Laparoscopic Imaging, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Pejman Shadpour and Mohammad Mehdi Sepehri).
+14. Enhancing the Process of Image Recording Through Intelligent Analysis of Motion in the Camera and Laparoscopic Instruments, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Shadpour Pejman and Mohammad Mehdi Sepehri).
 ## Academic book
 Ontologies: Methodologies, Tools and Languages, Tarbiat modares university press, 2011, (with Asoushe Abbas, Mehrasa Shohreh, Khakshour Saadat Parisa). 
 ## Book Chapters
