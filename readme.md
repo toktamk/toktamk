@@ -76,7 +76,20 @@
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+- Data Analysis and Machine Learning: Scikit-Learn, numpy, Pandas
+![numpy](https://img.shields.io/badge/Numpy-FF0000?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit-learn-FF0000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Computer Vision and Image Processing: Open-CV, Scikit-Image, Pillow
+![opencv](https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-image](https://img.shields.io/badge/Scikit-Image-FF0000?style=for-the-badge&logo=scikit-image&logoColor=white)
+![pillow](https://img.shields.io/badge/Pillow-FF0000?style=for-the-badge&logo=pillow&logoColor=white)
 
+- Data Visualization: Matplotlib, Seaborn
+![matplotlib](https://img.shields.io/badge/Matplotlib-FF0000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/Seaborn-FF0000?style=for-the-badge&logo=seaborn&logoColor=white)
+- Business Intelligence: PowerBI
+![powerbi](https://img.shields.io/badge/PowerBI-FF0000?style=for-the-badge&logo=powerbi&logoColor=white)
 # Publications 
 ## Peer-Reviewed Journal Articles
 1. Combining CNNs and 2-D visualization method for GI tract lesions classification, Multimedia Tools and Applications, 2024, 83 (6), 15825-15844 (with SA Nezhad and M Sohrabi)
