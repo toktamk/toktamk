@@ -5,7 +5,7 @@
 
 # Top Projects
 ## Computer Vision and Medical Image Analysis
-- Endoscopic Image Segmentation: https://github.com/toktamk/EndoscopicImageSegmentation
+- Endoscopic Image Classification and Segmentation: https://github.com/toktamk/EndoscopicImageSegmentation
 - Brain MRI Analysis: https://github.com/toktamk/BrainMRIAnalysis
 - Echocardiogram Data Analysis: https://github.com/toktamk/EchocardiogramDataAnalysis
 ## NLP
