@@ -53,10 +53,11 @@
 - Workshops in different companies and universities
 
 # Certifications:
-- Deeplearning.ai Machine Learning Engineering for Production (MLOps) Specialization
-   - Machine Learning in Production (Instructor: Andrew Ng) on Coursera
+1- Generative AI with Large Language Models, an online course authorized by Deeplearning.ai and Amazon Web Services (AWS) offered through Coursera
+2- Machine Learning Engineering for Production (MLOps) Specialization, an online course authorized by Deeplearning.ai offered through Coursera
+   - Machine Learning in Production (Instructor: Andrew Ng) 
    - Machine learning modeling pipelines in production (Instructor: Robert Crowe)
-- University of Illinois at Urbana-Champaign, Advanced deep learning methods for healthcare (Instructor: Jimeng Sun) on Coursera
+3- Advanced deep learning methods for healthcare (Instructor: Jimeng Sun), an online course authorized by University of Illinois at Urbana-Champaign offered through Coursera
 
  # Skills
 - Machine Learning: Strong expertise in machine learning algorithms, models, and applications.
