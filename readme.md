@@ -9,7 +9,7 @@
 - Brain MRI Analysis: https://github.com/toktamk/BrainMRIAnalysis
 - Echocardiogram Data Analysis: https://github.com/toktamk/EchocardiogramDataAnalysis
 ## NLP
-- Sentiment Analysis on Patients' Opinions about Hospital Care Services: https://github.com/toktamk/NLP
+- Emotion detection for Persian Texts by proposing a novel stacking ensemble of small transformer and pre-trained large language model (LLM): https://github.com/toktamk/NLP
 ## Generative AI
 - Generating Super-Resolution Images from Low-Resolution Images of Skin Disorders: https://github.com/toktamk/Generative-AI
 ## Health and Clinical Data Analysis
