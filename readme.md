@@ -4,14 +4,15 @@
 - Google Scholar Profile: https://scholar.google.com/citations?user=qmy_4oEAAAAJ&hl=en
 
 # Top Projects
+## Generative AI (based on Computer Vision and NLP)
+- Generating radiological reports from chest X-ray images: https://github.com/toktamk/GenerateRadiologyReportFromChestXrays
+
 ## Computer Vision and Medical Image Analysis
 - Endoscopic Image Classification and Segmentation: https://github.com/toktamk/EndoscopicImageSegmentation
 - Brain MRI Analysis: https://github.com/toktamk/BrainMRIAnalysis
 - Echocardiogram Data Analysis: https://github.com/toktamk/EchocardiogramDataAnalysis
-## NLP
+## NLP (Transformers and LLMs)
 - Emotion detection for Persian Texts by proposing a novel stacking ensemble of small transformer and pre-trained large language model (LLM): https://github.com/toktamk/NLP
-## Generative AI
-- Generating Super-Resolution Images from Low-Resolution Images of Skin Disorders: https://github.com/toktamk/Generative-AI
 ## Health and Clinical Data Analysis
 - Maternal and Prenatal Data Analysis: https://github.com/toktamk/Health_Clinical_Data_Analysis
 
