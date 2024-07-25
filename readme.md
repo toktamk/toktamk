@@ -14,7 +14,7 @@
 ## NLP (Transformers and LLMs)
 - Emotion detection for Persian Texts by proposing a novel stacking ensemble of small transformer and pre-trained large language model (LLM): https://github.com/toktamk/NLP
 ## Health and Clinical Data Analysis
-- Maternal and Prenatal Data Analysis: https://github.com/toktamk/Health_Clinical_Data_Analysis
+- Maternal and Prenatal Data Analysis: https://github.com/toktamk/ImanDataAnalysis
 
 # Summary
  Highly experienced and accomplished Associate Professor of Data Science with over 10 years of academic and research experience in data science and machine learning with special emphasis on healthcare data analytics. Proficient in leading research projects, mentoring students, and publishing peer-reviewed articles. Strong background in computer engineering and software engineering, with a Ph.D. in Industrial Engineering from a top-10 university in the country.
