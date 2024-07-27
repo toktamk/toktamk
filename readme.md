@@ -14,7 +14,7 @@
 ## NLP (Transformers and LLMs)
 - Emotion detection for Persian Texts by proposing a novel stacking ensemble of small transformer and pre-trained large language model (LLM): https://github.com/toktamk/NLP
 ## Health and Clinical Data Analysis
-- Maternal and Prenatal Data Analysis: https://github.com/toktamk/ImanDataAnalysis
+- Maternal and Prenatal Data Analysis: [https://github.com/toktamk/ImanDataAnalysis](https://github.com/toktamk/ImanDataAnalysisRepo)
 
 # Summary
  Highly experienced and accomplished Associate Professor of Data Science with over 10 years of academic and research experience in data science and machine learning with special emphasis on healthcare data analytics. Proficient in leading research projects, mentoring students, and publishing peer-reviewed articles. Strong background in computer engineering and software engineering, with a Ph.D. in Industrial Engineering from a top-10 university in the country.
@@ -148,6 +148,7 @@
 50.	Fuzzy FMEA application to improve workflow in operating rooms, Journal of industrial engineering (JIENG) (indexed in ISC), 2013, 47 (2): 135-147, (with Roghiyeh Khasha, Mohammad Mehdi Sepehri and Alireza Soroush) 
 51.	A Fuzzy FMEA approach to prioritize surgical cancellation factors, International Journal of Hospital Research, 2013, 2(1): 17-24 (with R Khasha and MM Sepehri) 
 ## Conference Proceedings
+### Accepted paper in BMVC 2024: British Machine Vision Conference (BMVC) is ranked as an A conference according to the CORE ranking system.
 1. Diabetes Prediction using Machine Learning Models, The 9th International Conference on Industrial and Systems Engineering, 2024, (with A Nasrollahpour)
 2. Investigating and analyzing social happiness and well-being in different countries of the world based on unsupervised learning methods, 10th International Conference on Recent Advances in Industrial Management, 2022 (with M Sharifi)
 3. Using Data Mining Algorithms for Classifying Gastrointestinal Lesions, 14th International Conference of Iranian Operations Research Society, 2022 (with S AyoubiNezhad)
