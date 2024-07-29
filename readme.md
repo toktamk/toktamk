@@ -5,7 +5,8 @@
 
 # Top Projects
 ## Generative AI (based on Computer Vision and NLP)
-- Generating radiological reports from chest X-ray images: https://github.com/toktamk/GenerateRadiologyReportFromChestXrays
+- Generating radiological reports from chest X-ray images: [GenerateRadiologyReportFromChestXrays ](https://github.com/toktamk/GenerateRadiologyReportFromChestXrays)
+- Generating images from texts: [GeneratingText2Image](https://github.com/toktamk/GeneratingText2Image)
 
 ## Computer Vision and Medical Image Analysis
 - Endoscopic Image Classification and Segmentation: https://github.com/toktamk/EndoscopicImageSegmentation
