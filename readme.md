@@ -9,15 +9,15 @@
 - Generating images from texts: [GeneratingText2Image](https://github.com/toktamk/GeneratingText2Image)
 
 ## Computer Vision and Medical Image Analysis
-- Endoscopic Image Classification and Segmentation: https://github.com/toktamk/EndoscopicImageSegmentation
-- Brain MRI Analysis: https://github.com/toktamk/BrainMRIAnalysis
-- Echocardiogram Data Analysis: https://github.com/toktamk/EchocardiogramDataAnalysis
+- Endoscopic Image Classification and Segmentation: [EndoscopicImageSegmentation](https://github.com/toktamk/EndoscopicImageSegmentation)
+- Brain MRI Analysis: [BrainMRIAnalysis](https://github.com/toktamk/BrainMRIAnalysis)
+- Echocardiogram Data Analysis: [EchocardiogramDataAnalysis](https://github.com/toktamk/EchocardiogramDataAnalysis)
 ## NLP (Transformers and LLMs)
-- Emotion detection for Persian Texts by proposing a novel stacking ensemble of small transformer and pre-trained large language model (LLM): https://github.com/toktamk/NLP
+- Emotion detection for Persian Texts by proposing a novel stacking ensemble of small transformer and pre-trained large language model (LLM): [NLP](https://github.com/toktamk/NLP)
 ## Health and Clinical Data Analysis
-- (Maternal and rrenatal data analysis for predicting infant death)[https://github.com/toktamk/ImanDataAnalysis](https://github.com/toktamk/ImanDataAnalysisRepo)
+- Maternal and rrenatal data analysis for predicting infant death: [ImanDataAnalysis](https://github.com/toktamk/ImanDataAnalysisRepo)
 ## Anomaly Detection
-- (Anomaly detection on maternal and prenatal data)[https://github.com/toktamk/AnomalyDetectionRepo]
+- Anomaly detection on maternal and prenatal data: [AnomalyDetectionRepo](https://github.com/toktamk/AnomalyDetectionRepo)
 # Summary
  Highly experienced and accomplished Associate Professor of Data Science with over 10 years of academic and research experience in data science and machine learning with special emphasis on healthcare data analytics. Proficient in leading research projects, mentoring students, and publishing peer-reviewed articles. Strong background in computer engineering and software engineering, with a Ph.D. in Industrial Engineering from a top-10 university in the country.
 
