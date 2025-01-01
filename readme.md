@@ -82,19 +82,18 @@
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+- Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langhchain, langgraph, transformers
+![langchain](langchain.jpg)
+![langgraph](langgraph.png)
+![transformers](transformers.jpg)
 - Data Analysis and Machine Learning: Scikit-Learn, numpy, Pandas
 ![numpy](https://img.shields.io/badge/Numpy-FF0000?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit-learn-FF0000?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langhchain, langgraph, transformers
-![langchain](langchain (1).jpg)
-![langgraph](langgraph (1).png)
-![transformers](transformers (1).jpg)
 - Computer Vision and Image Processing: Open-CV, Scikit-Image, Pillow
 ![opencv](https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/Scikit-Image-FF0000?style=for-the-badge&logo=scikit-image&logoColor=white)
 ![pillow](https://img.shields.io/badge/Pillow-FF0000?style=for-the-badge&logo=pillow&logoColor=white)
-
 - Data Visualization: Matplotlib, Seaborn
 ![matplotlib](https://img.shields.io/badge/Matplotlib-FF0000?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![seaborn](https://img.shields.io/badge/Seaborn-FF0000?style=for-the-badge&logo=seaborn&logoColor=white)
