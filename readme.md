@@ -89,7 +89,7 @@
 - Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langhchain, langgraph, transformers
 ![langchain](langchain.jpg)
 ![langgraph](langgraph.png)
-![transformers](https://pypi-camo.freetls.fastly.net/d60a70af6de88eae24a88d3c21d81adbfb7d3b6c/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6c696768742e737667)
+![transformers](transformers.jpg)
 - Computer Vision and Image Processing: Open-CV, Scikit-Image, Pillow
 ![opencv](https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/Scikit-Image-FF0000?style=for-the-badge&logo=scikit-image&logoColor=white)
