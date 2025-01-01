@@ -78,15 +78,15 @@
 - Research Skills: Ability to formulate research problems, design experiments, and implement solutions to advance AI research.
 - Communication Skills: Strong ability to document research processes and outcomes, and to present findings at scientific conferences.
 - Python Programming: Hands-on programming experience in Python.
-- Deep Learning: Familiarity with deep learning frameworks such as PyTorch, TensorFlow.
+- Deep Learning: Familiarity with deep learning frameworks such as PyTorch, TensorFlow, Keras.
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-- Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langhchain, langgraph, transformers
+- Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langhchain, langgraph, transformers.
 ![langchain](langchainIcon.jpg)
 ![langgraph](langgraphIcon.jpg)
 ![transformers](transformersIcon.jpg)
-- Data Analysis and Machine Learning: Scikit-Learn, numpy, Pandas
+- Data Analysis and Machine Learning: Scikit-Learn, numpy, Pandas.
 ![numpy](https://img.shields.io/badge/Numpy-FF0000?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit-learn-FF0000?style=for-the-badge&logo=scikit-learn&logoColor=white)
