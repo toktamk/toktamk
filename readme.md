@@ -84,7 +84,7 @@
 ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 - Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langhchain, langgraph, transformers
 ![langchain](langchainIcon.jpg)
-![langgraph](langgraphIcon.png)
+![langgraph](langgraphIcon.jpg)
 ![transformers](transformersIcon.jpg)
 - Data Analysis and Machine Learning: Scikit-Learn, numpy, Pandas
 ![numpy](https://img.shields.io/badge/Numpy-FF0000?style=for-the-badge&logo=numpy&logoColor=white)
