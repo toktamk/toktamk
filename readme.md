@@ -1,4 +1,4 @@
-# Hi, I'm Toktam (Senior Data Scientist and Machine Learning Researcher)
+# Hi, I'm Toktam: Senior Data Scientist (Generative AI, Computer Vision, NLP, LLMs, Agentic AI, Health Data Analytics, Medical Image Analysis)
 - Email: toktamk@gmail.com
 - Linkedin Profile: https://www.linkedin.com/in/toktamkhatibi77271683/
 - Google Scholar Profile: https://scholar.google.com/citations?user=qmy_4oEAAAAJ&hl=en
