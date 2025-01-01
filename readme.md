@@ -86,10 +86,10 @@
 ![numpy](https://img.shields.io/badge/Numpy-FF0000?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit-learn-FF0000?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with 
-<img src="langchain.jpg" alt="LangChain" width="40" height="40" />
-<img src="langgraph.png" alt="LangGraph" width="40" height="40" />
-<img src="https://pypi-camo.freetls.fastly.net/d60a70af6de88eae24a88d3c21d81adbfb7d3b6c/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6c696768742e737667" alt="Transformers" width="40" height="40" />
+- Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langhchain, langgraph, transformers
+![langchain](langchain.jpg)
+![langgraph](langgraph.png)
+![transformers](https://pypi-camo.freetls.fastly.net/d60a70af6de88eae24a88d3c21d81adbfb7d3b6c/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6c696768742e737667)
 - Computer Vision and Image Processing: Open-CV, Scikit-Image, Pillow
 ![opencv](https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/Scikit-Image-FF0000?style=for-the-badge&logo=scikit-image&logoColor=white)
