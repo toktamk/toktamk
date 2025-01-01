@@ -67,8 +67,8 @@
  # Skills
 - Machine Learning: Strong expertise in machine learning algorithms, models, and applications.
    - Computer Vision: Strong expertise in computer vision algorithms, models, and applications with special focus on medical image analysis and medical vision.
-   - Natural Language Processing: Expertise in NLP algorithms, models, and applications.
-   - Generative AI: Expertise in generative AI algorithms, models, and applications.
+   - Natural Language Processing: Expertise in NLP algorithms, models, RAG-based LLMs and SLMs, and applications.
+   - Generative AI: Expertise in generative AI algorithms, models, and applications (Agentic AI).
 - Research Leadership: Proven ability to lead research projects and mentor students.
 - Publication Record: Established track record of publishing more than 40 peer-reviewed articles and conference proceedings.
 - Teaching: Experienced in teaching advanced courses in machine learning.
@@ -86,6 +86,7 @@
 ![numpy](https://img.shields.io/badge/Numpy-FF0000?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit-learn-FF0000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langchain, langgraph, transformers
 - Computer Vision and Image Processing: Open-CV, Scikit-Image, Pillow
 ![opencv](https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/Scikit-Image-FF0000?style=for-the-badge&logo=scikit-image&logoColor=white)
@@ -98,73 +99,78 @@
 ![powerbi](https://img.shields.io/badge/PowerBI-FF0000?style=for-the-badge&logo=powerbi&logoColor=white)
 # Publications 
 ## Peer-Reviewed Journal Articles
-1. Combining CNNs and 2-D visualization method for GI tract lesions classification, Multimedia Tools and Applications, 2024, 83 (6), 15825-15844 (with SA Nezhad and M Sohrabi)
-2. Keratoconus disease classification with multimodel fusion and vision transformer: a pretrained model approach, BMJ Open Ophthalmology, 2024 (with Y Shokufeh)
-3. Grading the severity of diabetic retinopathy using an ensemble of self-supervised pre-trained convolutional neural networks: ESSP-CNNs, Multimedia Tools and Applications, 2024, (with S Parsa)
-4. Enhancing Lung Cancer Diagnosis Accuracy through Autoencoder-Based Reconstruction of Computed Tomography (CT) Lung Images, International Journal of Decision Intelligence, 2024, 1 (3) (with I Heidari, MA Pirian and MM Sepehri)
-5. A Review on the Latest Researches Focusing on Diagnosing the Cognitive Disorders (CDs) Based on Medical Images, Journal of Biomedical Physics & Engineering, 2023, 13 (with N Naddafi and P Mazloomi)
-6.	Emotion Recognition from Electroencephalogram Signals based on Deep Neural Networks, International Journal of Bioinformatics and Intelligent Computing, 2023, 2(2), 212-230 (with PR Yeganeh, Nouri A and Khanteymoori A)
-7.	Combining CNNs and 2-D visualization method for GI tract lesions classification, Multimedia Tools and Applications, 2023, (with SA Nezhad and M Sohrabi)
-8.	Student performance prediction using datamining classification algorithms: Evaluating generalizability of models from geographical aspect, Education and Information Technologies, 2023, (with A Parhizkar and G Tajeddin)
-9.	A Conceptual Framework for Preprocessing and Improving Quality of Event Log in Process Mining, Iranian Journal of Information Processing and Management, 2023, (with A Salehi, M Aghdasi and M Sheikhmohammady)
-10.	A Promising Method for Correcting Class Noise in the Presence of Attribute Noise, International Journal of Hospital Research, 2023, (with A Nakhaei and M Sepehri).
-11.	Left Atrium Chamber Quantification in echocardiography images using Attention based Convolutional Neural Network, International Journal of Hospital Research, 2023, (with N Barzegar and A Hoseinsabet).
-12.	Proposing a Two-Step Decision Support System for Differential Diagnosis of Tuberculosis from Pneumonia, Sustainable Operations and Computers, 2022, (with A Farahani, H Sarmadian and A Boskabadi).
-13.	Distributed Big Data Analytics Method for the Early Prediction of the Neonatal 5-Minute Apgar Score before or during Birth and Ranking the Risk Factors from a National Dataset, AI, 2022, 3, (with A Farahani, MM Sepehri and M Heidarzadeh).
-14.	Data Quality in Process Mining: A Systematic Review, Sciences and Techniques of Information Management, 2022, (with A Salehi, A Aghdasi and M Sheikhmohammady).
-15.	Patient’s actions recognition in hospital’s recovery department based on RGB-D dataset, Multimedia tools and applications, 2022, (with H Mollaei and MM Sepehri).
-16.	Skin lesion detection using an ensemble of deep models, Multimedia tools and applications, 2022, (with A Shahsavari and S Ranjbari).
-17.	Proposing novel data analytics method for anatomical landmark identification from endoscopic video frames, Healthcare engineering, 2022, (with S Ayyoubinezhad and M Sohrabi).
-18.	GrAR: A novel framework for Graph Alignment based on Relativity concept, Journal of Expert Systems with Applications, 2022, 187, (with A Soltanshahi, B Teimurpour and H Zare)
-19.	Proposing a machine-learning based method to predict stillbirth before and during delivery and ranking the features: nationwide retrospective cross-sectional study, Journal of BMC Pregnancy and Child Birth, 2021, 21(1): 1-17, (with E Hanifi, MM Sepehri and L Allahgholi)
-20.	CNFE-SE: a novel approach combining complex network-based feature engineering and stacked ensemble to predict the success of intrauterine insemination and ranking the features, Journal of BMC Medical Informatics and Decision Making, 20201, 21 (1): 1-29, (with S Ranjbari, AV Dizaji, H Sajadi, M Totonchi and F Ghaffari)
-21.	Proposing a novel Cascade Ensemble Super Resolution Generative Adversarial Network (CESR-GAN) method for the reconstruction of super-resolution skin lesion images, Journal of Informatics in Medicine Unlocked, 2021, (with A Shahsavari and R Ranjbari) 
-22.	Novel methods for creating an earthquake complex network using a declustered catalog, Journal of Chaos, Solitons & Fractals, 2021, 147, (with A Shahraki Ebrahimi and E Yavari)
-23.	Proposing a novel multi-instance learning model for tuberculosis recognition from chest X-ray images based on CNNs, complex networks and stacked ensemble, Journal of Physical and Engineering Sciences in Medicine, 2021, 1-21 (with A Shahsavari and A Farahani) 
-24.	Proposing novel methods for simultaneous cardiac cycle phase identification and estimating maximal and minimal left atrial volume (LAV) from apical four-chamber view in 2-D echocardiography, Journal of Informatics in Medicine Unlocked, 2021, 23, 100517 (with N Barzegar and A HosseinSabet)
-25.	Predicting the number of hospital admissions due to mental disorders from air pollutants and weather condition descriptors using stacked ensemble of Deep Convolutional models and LSTM models (SEDCMLM), Journal of Cleaner Production, 2021, 280 (1), 124410, (with N Karampour)
-26.	Analysis of the satisfaction of in-patients based on data mining, International Journal of Hospital Research, 2021, 10 (1), (with R Asadi, MM Sepehri and P Shadpour)
-27.	Treatment outcome classification of pediatric Acute Lymphoblastic Leukemia patients with clinical and medical data using machine learning: A case study at MAHAK hospital, Journal of Informatics in Medicine Unlocked, 2020, 100399, (with A. Kashef and A. Mehrvar) 
-28.	Studying the Effects of Systemic Inflammatory Markers and Drugs on AVF Longevity through a Novel Clinical Intelligent Framework, IEEE Journal of Biomedical and Health Informatics, 2020, (with A Nakhaei, MM Sepehri and P Shadpour) 
-29.	A novel noise-robust stacked ensemble of deep and conventional machine learning classifiers (NRSE-DCML) for human biometric identification from electrocardiogram signals, Informatics in Medicine Unlocked, 2020, 21, 100469 (with N RabieNejadSadatMahale)
-30.	Proposing a novel unsupervised stack ensemble of deep and conventional image segmentation (SEDCIS) method for localizing vitiligo lesions in skin images, Journal of Skin Research and Technology, 2020, (with N Rezaei, L Ataei Fashtami and M Totonchi) 
-31.	Proposing novel methods for gynecologic surgical action recognition on laparoscopic videos, Journal of Multimedia Tools and Applications, 2020, 79: 30111-30133 (with P Dezyani) 
-32.	 Analysis of big data for prediction of provider-initiated preterm birth and spontaneous premature deliveries and ranking the predictive features, Journal of Archives of Gynecology and Obstetrics, 2019, 300 (6), 1565-1582, (with N Kheyrikoochaksarayee and MM Sepehri) 
-33.	Identification and weighting of kidney allocation criteria: a novel multi-expert fuzzy method, Journal of BMC medical informatics and decision making, 2019, 19 (1), 182, (with N Taherkhani, MM Sepehri, S Shafaghi) 
-34.	Investigating and Modeling the significant reasons of Percutaneous Coronary Intervention patients to participate rarely in cardiac rehabilitation-A data mining approach, Journal of Health Management & Informatics, 2019, 6 (2), 56-65, (with T Zamir, MM Sepehri, H Aghajani, M Khakzar Bafruei)
-35.	Proposing feature engineering method based on deep learning and K-NNs for ECG beat classification and arrhythmia detection, Journal of Australasian Physical & Engineering Sciences in Medicine, 2019, (with R Nooshin)
-36.	An intelligent warning model for early prediction of cardiac arrest in sepsis patients, Journal of Computer Methods and Programs in Biomedicine, 2019, 178, 47-58, (with S Layeghian Javan, MM Sepehri, M Layeghian Javan)
-37.	An analytical model based on simulation aiming to improve patient flow in a hospital surgical suite, Journal of Industrial and Systems Engineering, 2018, 12 (1), 66-82, (with R Khasha and MM Sepehri)
-38.	Expert Triage System in Cardiology Emergency Department, INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND NETWORK SECURITY, 2018, 18 (10), 100-104, (with F Moghbeli, M Langarizadeh, M Kiavar, A Nikpajouh)
-39.	Mobile GIS based monitoring Asthma attacks based on environmental factors, Journal of Cleaner Production, 179, 417-428, (with R. Khasha, Mohammad Mehdi Sepehri, S.A. Mahdavian).
-40.	Extraction and Comparison of the Discharge Process in a Teaching Hospital, International Journal of Hospital Research, 2017, 6 (1):-, (with Nasim Nejad Jaefari)
-41.	Designing an RFID-enabled wasteless system for hemovigilance . Sci J Blood Transfus Organ. 2016; 13 (3) :185-196, (with Marjan Soleymani, Mohammad Mehdi Sepehri, Karim Shams Asenjan)
-42.	A knowledge map for hospital performance concept: Extraction and analysis, Iranian journal of public health, 2016, 45(7): 843–854, (With Nader Markazi-Moghaddam, Mohammad Arab, Hamid Ravaghi, Arash Rashidian and Sanaz Zargar Balaei Jame)
-43.	Designing a Cost Based Systematic Framework for Heart STEMI Patients by pPCI and Thrombolytic Treatments, Hospital, 2015, 14 (3): 9-21, (with Masoumeh Saeedian, Mohammad Mehdi Sepehri and Hassan Aghajani)
-44.	Percutaneous Coronary Intervention (PCI) Knowledge Map Using Fuzzy Cognitive Map, Journal of Management of Technology Development, 2015, 2 (1): 79-106, (with Samira Korani and Mohammad Mehdi Sepehri)
-45.	Data Mining Approach for Prediction of Erythropoietin Drug Dosage in Hemodialysis Patient, Journal of Mazandaran University of Medical Sciences, 2015, 25 (129) :26-35, (with Akram Tavousi, Mohammad Mehdi Sepehri and Tahereh Malakoutian) 
-46.	 Prioritizing interrupt causes in minimally-invasive surgeries based on identifying causal relations between interrupt causes, Journal of industrial engineering (JIENG) (indexed in ISC), 2015, 49(1): 33-43, (with Mohammad Mehdi Sepehri, Pejman Shadpour and Seyyed Hesamoddin Zegordi)
-47.	A novel unsupervised approach for minimally-invasive video segmentation, Journal of medical signals and sensors (indexed in ISI, Medline and ISC), 2014, 4 (1): 53-71, (with Mohammad Mehdi Sepehri and Pejman Shadpour)
-48.	SIDF: A Novel Framework for Accurate Surgical Instrument Detection in Laparoscopic Video Frames, International journal of hospital research (indexed in ISC), 2013, 2 (4): 163-170, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
-49.	Risk management based approach for identification and ranking of surgical cancellation factors using Fuzzy FMEA, International journal of hospital research (indexed in ISC), 2013, 2(1): 17-24, (with Roghiyeh Khasha and Mohammad Mehdi Sepehri).
-50.	Fuzzy FMEA application to improve workflow in operating rooms, Journal of industrial engineering (JIENG) (indexed in ISC), 2013, 47 (2): 135-147, (with Roghiyeh Khasha, Mohammad Mehdi Sepehri and Alireza Soroush) 
-51.	A Fuzzy FMEA approach to prioritize surgical cancellation factors, International Journal of Hospital Research, 2013, 2(1): 17-24 (with R Khasha and MM Sepehri) 
+1. Cervical Cancer Assessment by Deep Learning: A Novel Prediction Model for the Swede Score, International Journal of Hospital Research, 2024, 12 (4), (with M Qaderi).
+2.	Enhancing Lung Cancer Diagnosis Accuracy through Autoencoder-Based Reconstruction of Computed Tomography (CT) Lung Images, International Journal of Decision Intelligence, 2024, (with I Heidari, MA Pirian and MM Sepehri).
+3.	Proposing a novel attention-based deep neural network (ABCL-EHI) for EEG-based human biometric identification, Journal of Algorithms and Computation, 2024, 56 (1), 123-145 (with J Zarean)
+4.	Human activity recognition using electrocardiogram data by deep neural networks methods and mobile health, Authorea Preprints 2024, (with M Mirzaseyedi and A Dehghanian).
+5. Combining CNNs and 2-D visualization method for GI tract lesions classification, Multimedia Tools and Applications, 2024, 83 (6), 15825-15844 (with SA Nezhad and M Sohrabi)
+6. Keratoconus disease classification with multimodel fusion and vision transformer: a pretrained model approach, BMJ Open Ophthalmology, 2024 (with Y Shokufeh)
+7. Grading the severity of diabetic retinopathy using an ensemble of self-supervised pre-trained convolutional neural networks: ESSP-CNNs, Multimedia Tools and Applications, 2024, (with S Parsa)
+8. Enhancing Lung Cancer Diagnosis Accuracy through Autoencoder-Based Reconstruction of Computed Tomography (CT) Lung Images, International Journal of Decision Intelligence, 2024, 1 (3) (with I Heidari, MA Pirian and MM Sepehri)
+9. A Review on the Latest Researches Focusing on Diagnosing the Cognitive Disorders (CDs) Based on Medical Images, Journal of Biomedical Physics & Engineering, 2023, 13 (with N Naddafi and P Mazloomi)
+10.	Emotion Recognition from Electroencephalogram Signals based on Deep Neural Networks, International Journal of Bioinformatics and Intelligent Computing, 2023, 2(2), 212-230 (with PR Yeganeh, Nouri A and Khanteymoori A)
+11.	Student performance prediction using datamining classification algorithms: Evaluating generalizability of models from geographical aspect, Education and Information Technologies, 2023, (with A Parhizkar and G Tajeddin)
+12.	A Conceptual Framework for Preprocessing and Improving Quality of Event Log in Process Mining, Iranian Journal of Information Processing and Management, 2023, (with A Salehi, M Aghdasi and M Sheikhmohammady)
+13.	A Promising Method for Correcting Class Noise in the Presence of Attribute Noise, International Journal of Hospital Research, 2023, (with A Nakhaei and M Sepehri).
+14.	Left Atrium Chamber Quantification in echocardiography images using Attention based Convolutional Neural Network, International Journal of Hospital Research, 2023, (with N Barzegar and A Hoseinsabet).
+15.	Proposing a Two-Step Decision Support System for Differential Diagnosis of Tuberculosis from Pneumonia, Sustainable Operations and Computers, 2022, (with A Farahani, H Sarmadian and A Boskabadi).
+16.	Distributed Big Data Analytics Method for the Early Prediction of the Neonatal 5-Minute Apgar Score before or during Birth and Ranking the Risk Factors from a National Dataset, AI, 2022, 3, (with A Farahani, MM Sepehri and M Heidarzadeh).
+17.	Data Quality in Process Mining: A Systematic Review, Sciences and Techniques of Information Management, 2022, (with A Salehi, A Aghdasi and M Sheikhmohammady).
+18.	Patient’s actions recognition in hospital’s recovery department based on RGB-D dataset, Multimedia tools and applications, 2022, (with H Mollaei and MM Sepehri).
+19.	Skin lesion detection using an ensemble of deep models, Multimedia tools and applications, 2022, (with A Shahsavari and S Ranjbari).
+20.	Proposing novel data analytics method for anatomical landmark identification from endoscopic video frames, Healthcare engineering, 2022, (with S Ayyoubinezhad and M Sohrabi).
+21.	GrAR: A novel framework for Graph Alignment based on Relativity concept, Journal of Expert Systems with Applications, 2022, 187, (with A Soltanshahi, B Teimurpour and H Zare)
+22.	Proposing a machine-learning based method to predict stillbirth before and during delivery and ranking the features: nationwide retrospective cross-sectional study, Journal of BMC Pregnancy and Child Birth, 2021, 21(1): 1-17, (with E Hanifi, MM Sepehri and L Allahgholi)
+23.	CNFE-SE: a novel approach combining complex network-based feature engineering and stacked ensemble to predict the success of intrauterine insemination and ranking the features, Journal of BMC Medical Informatics and Decision Making, 20201, 21 (1): 1-29, (with S Ranjbari, AV Dizaji, H Sajadi, M Totonchi and F Ghaffari)
+24.	Proposing a novel Cascade Ensemble Super Resolution Generative Adversarial Network (CESR-GAN) method for the reconstruction of super-resolution skin lesion images, Journal of Informatics in Medicine Unlocked, 2021, (with A Shahsavari and R Ranjbari) 
+25.	Novel methods for creating an earthquake complex network using a declustered catalog, Journal of Chaos, Solitons & Fractals, 2021, 147, (with A Shahraki Ebrahimi and E Yavari)
+26.	Proposing a novel multi-instance learning model for tuberculosis recognition from chest X-ray images based on CNNs, complex networks and stacked ensemble, Journal of Physical and Engineering Sciences in Medicine, 2021, 1-21 (with A Shahsavari and A Farahani) 
+27.	Proposing novel methods for simultaneous cardiac cycle phase identification and estimating maximal and minimal left atrial volume (LAV) from apical four-chamber view in 2-D echocardiography, Journal of Informatics in Medicine Unlocked, 2021, 23, 100517 (with N Barzegar and A HosseinSabet)
+28.	Predicting the number of hospital admissions due to mental disorders from air pollutants and weather condition descriptors using stacked ensemble of Deep Convolutional models and LSTM models (SEDCMLM), Journal of Cleaner Production, 2021, 280 (1), 124410, (with N Karampour)
+29.	Analysis of the satisfaction of in-patients based on data mining, International Journal of Hospital Research, 2021, 10 (1), (with R Asadi, MM Sepehri and P Shadpour)
+30.	Treatment outcome classification of pediatric Acute Lymphoblastic Leukemia patients with clinical and medical data using machine learning: A case study at MAHAK hospital, Journal of Informatics in Medicine Unlocked, 2020, 100399, (with A. Kashef and A. Mehrvar) 
+31.	Studying the Effects of Systemic Inflammatory Markers and Drugs on AVF Longevity through a Novel Clinical Intelligent Framework, IEEE Journal of Biomedical and Health Informatics, 2020, (with A Nakhaei, MM Sepehri and P Shadpour) 
+32.	A novel noise-robust stacked ensemble of deep and conventional machine learning classifiers (NRSE-DCML) for human biometric identification from electrocardiogram signals, Informatics in Medicine Unlocked, 2020, 21, 100469 (with N RabieNejadSadatMahale)
+33.	Proposing a novel unsupervised stack ensemble of deep and conventional image segmentation (SEDCIS) method for localizing vitiligo lesions in skin images, Journal of Skin Research and Technology, 2020, (with N Rezaei, L Ataei Fashtami and M Totonchi) 
+34.	Proposing novel methods for gynecologic surgical action recognition on laparoscopic videos, Journal of Multimedia Tools and Applications, 2020, 79: 30111-30133 (with P Dezyani) 
+35.	 Analysis of big data for prediction of provider-initiated preterm birth and spontaneous premature deliveries and ranking the predictive features, Journal of Archives of Gynecology and Obstetrics, 2019, 300 (6), 1565-1582, (with N Kheyrikoochaksarayee and MM Sepehri) 
+36.	Identification and weighting of kidney allocation criteria: a novel multi-expert fuzzy method, Journal of BMC medical informatics and decision making, 2019, 19 (1), 182, (with N Taherkhani, MM Sepehri, S Shafaghi) 
+37.	Investigating and Modeling the significant reasons of Percutaneous Coronary Intervention patients to participate rarely in cardiac rehabilitation-A data mining approach, Journal of Health Management & Informatics, 2019, 6 (2), 56-65, (with T Zamir, MM Sepehri, H Aghajani, M Khakzar Bafruei)
+38.	Proposing feature engineering method based on deep learning and K-NNs for ECG beat classification and arrhythmia detection, Journal of Australasian Physical & Engineering Sciences in Medicine, 2019, (with R Nooshin)
+39.	An intelligent warning model for early prediction of cardiac arrest in sepsis patients, Journal of Computer Methods and Programs in Biomedicine, 2019, 178, 47-58, (with S Layeghian Javan, MM Sepehri, M Layeghian Javan)
+40.	An analytical model based on simulation aiming to improve patient flow in a hospital surgical suite, Journal of Industrial and Systems Engineering, 2018, 12 (1), 66-82, (with R Khasha and MM Sepehri)
+41.	Expert Triage System in Cardiology Emergency Department, INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND NETWORK SECURITY, 2018, 18 (10), 100-104, (with F Moghbeli, M Langarizadeh, M Kiavar, A Nikpajouh)
+42.	Mobile GIS based monitoring Asthma attacks based on environmental factors, Journal of Cleaner Production, 179, 417-428, (with R. Khasha, Mohammad Mehdi Sepehri, S.A. Mahdavian).
+43.	Extraction and Comparison of the Discharge Process in a Teaching Hospital, International Journal of Hospital Research, 2017, 6 (1):-, (with Nasim Nejad Jaefari)
+44.	Designing an RFID-enabled wasteless system for hemovigilance . Sci J Blood Transfus Organ. 2016; 13 (3) :185-196, (with Marjan Soleymani, Mohammad Mehdi Sepehri, Karim Shams Asenjan)
+45.	A knowledge map for hospital performance concept: Extraction and analysis, Iranian journal of public health, 2016, 45(7): 843–854, (With Nader Markazi-Moghaddam, Mohammad Arab, Hamid Ravaghi, Arash Rashidian and Sanaz Zargar Balaei Jame)
+46.	Designing a Cost Based Systematic Framework for Heart STEMI Patients by pPCI and Thrombolytic Treatments, Hospital, 2015, 14 (3): 9-21, (with Masoumeh Saeedian, Mohammad Mehdi Sepehri and Hassan Aghajani)
+47.	Percutaneous Coronary Intervention (PCI) Knowledge Map Using Fuzzy Cognitive Map, Journal of Management of Technology Development, 2015, 2 (1): 79-106, (with Samira Korani and Mohammad Mehdi Sepehri)
+48.	Data Mining Approach for Prediction of Erythropoietin Drug Dosage in Hemodialysis Patient, Journal of Mazandaran University of Medical Sciences, 2015, 25 (129) :26-35, (with Akram Tavousi, Mohammad Mehdi Sepehri and Tahereh Malakoutian) 
+49.	 Prioritizing interrupt causes in minimally-invasive surgeries based on identifying causal relations between interrupt causes, Journal of industrial engineering (JIENG) (indexed in ISC), 2015, 49(1): 33-43, (with Mohammad Mehdi Sepehri, Pejman Shadpour and Seyyed Hesamoddin Zegordi)
+50.	A novel unsupervised approach for minimally-invasive video segmentation, Journal of medical signals and sensors (indexed in ISI, Medline and ISC), 2014, 4 (1): 53-71, (with Mohammad Mehdi Sepehri and Pejman Shadpour)
+51.	SIDF: A Novel Framework for Accurate Surgical Instrument Detection in Laparoscopic Video Frames, International journal of hospital research (indexed in ISC), 2013, 2 (4): 163-170, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
+52.	Risk management based approach for identification and ranking of surgical cancellation factors using Fuzzy FMEA, International journal of hospital research (indexed in ISC), 2013, 2(1): 17-24, (with Roghiyeh Khasha and Mohammad Mehdi Sepehri).
+53.	Fuzzy FMEA application to improve workflow in operating rooms, Journal of industrial engineering (JIENG) (indexed in ISC), 2013, 47 (2): 135-147, (with Roghiyeh Khasha, Mohammad Mehdi Sepehri and Alireza Soroush) 
+54.	A Fuzzy FMEA approach to prioritize surgical cancellation factors, International Journal of Hospital Research, 2013, 2(1): 17-24 (with R Khasha and MM Sepehri) 
 ## Conference Proceedings
-### Accepted paper in BMVC 2024: British Machine Vision Conference (BMVC) is ranked as an A conference according to the CORE ranking system.
-1. Diabetes Prediction using Machine Learning Models, The 9th International Conference on Industrial and Systems Engineering, 2024, (with A Nasrollahpour)
-2. Investigating and analyzing social happiness and well-being in different countries of the world based on unsupervised learning methods, 10th International Conference on Recent Advances in Industrial Management, 2022 (with M Sharifi)
-3. Using Data Mining Algorithms for Classifying Gastrointestinal Lesions, 14th International Conference of Iranian Operations Research Society, 2022 (with S AyoubiNezhad)
-4. Analysis and Identifying the Main Factors of Death in Countries based on Data Mining Methods, 10th International Conference on Recent Advances in Industrial Management, 2022 (with M Sharifi)
-5. Assessing the Impact of Weather Conditions on Seasonal Pollution in Tehran, Second International Conference on Industrial Engineering, Productivity, 2020 (with E Hanifi, M Sharifi, A Vosough, MM Sepehri)
-6. Comparing the Performance of Predicting Hospital Admission Rate due to Cardiovascular, mental and Allergic disorders based on Air Pollution Indices, 16th International Conference on Industrial Engineering, 2020 (with Z Ghaderi)
-7. A review on Analyzing Data of Endometriosis from perspectives of Disease, Patient and Treatment Procedure, 16th International Conference on Industrial Engineering, 2020 (with E Hanifi, S Chaichian, L Allahqoli)
-8. A framework for monitoring patients in the recovery room using Kinect, 11th international industrial engineering conference (IIEC 2015), Iran, 2015, (with Mohammad Mehdi Sepehri and Hamed Mollaei)
-9. 0-1 Mathematical programming models for laparoscopic activity recognition, 9th international industrial engineering conference (IIEC 2013), Iran, 2013, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
-10. Laparoscopic instrument detection with a new image segmentation algorithm (GNSTIS), The first international conference on Electronic health, Iran, 2012, (with Mohammad Mehdi Sepehri and Pejman,Shadpour).
-11. Time series representation and clustering with directional distance based features (DDBF), 9th international conference on electronics, computer and computation (ICECCO), Turkey, 2012, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
-12. Design a comprehensive framework for evaluationg the readiness of starting surgical operation based on surgical cancellation reduction, The first international conference on Electronic health, Iran, 2012, (with Roghiyeh Khasha and Mohammad Mehdi Sepehri).
-13. Devising Novel Algorithms for Information Extraction from Live Laparoscopic Imaging, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Pejman Shadpour and Mohammad Mehdi Sepehri).
-14. Enhancing the Process of Image Recording Through Intelligent Analysis of Motion in the Camera and Laparoscopic Instruments, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Shadpour Pejman and Mohammad Mehdi Sepehri).
+### Oral presentation in BMVC 2024: British Machine Vision Conference (BMVC) is ranked as an A conference according to the CORE ranking system:
+1. MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation, The 35th British Machine Vision Conference (BMVC) 2024, (with S Ghorbani Kolahi, SK Chaharsooghi, A Bozorgpour, R Azad, M Heidari, I Hacihaliloglu and D Merhof), Glasgow, UK, November 25-28, 2024, Available at: https://papers.bmvc2024.org/0787.pdf .
+  ### Other conference papers
+2. Diabetes Prediction using Machine Learning Models, The 9th International Conference on Industrial and Systems Engineering, 2024, (with A Nasrollahpour)
+3. Investigating and analyzing social happiness and well-being in different countries of the world based on unsupervised learning methods, 10th International Conference on Recent Advances in Industrial Management, 2022 (with M Sharifi)
+4. Using Data Mining Algorithms for Classifying Gastrointestinal Lesions, 14th International Conference of Iranian Operations Research Society, 2022 (with S AyoubiNezhad)
+5. Analysis and Identifying the Main Factors of Death in Countries based on Data Mining Methods, 10th International Conference on Recent Advances in Industrial Management, 2022 (with M Sharifi)
+6. Assessing the Impact of Weather Conditions on Seasonal Pollution in Tehran, Second International Conference on Industrial Engineering, Productivity, 2020 (with E Hanifi, M Sharifi, A Vosough, MM Sepehri)
+7. Comparing the Performance of Predicting Hospital Admission Rate due to Cardiovascular, mental and Allergic disorders based on Air Pollution Indices, 16th International Conference on Industrial Engineering, 2020 (with Z Ghaderi)
+8. A review on Analyzing Data of Endometriosis from perspectives of Disease, Patient and Treatment Procedure, 16th International Conference on Industrial Engineering, 2020 (with E Hanifi, S Chaichian, L Allahqoli)
+9. A framework for monitoring patients in the recovery room using Kinect, 11th international industrial engineering conference (IIEC 2015), Iran, 2015, (with Mohammad Mehdi Sepehri and Hamed Mollaei)
+10. 0-1 Mathematical programming models for laparoscopic activity recognition, 9th international industrial engineering conference (IIEC 2013), Iran, 2013, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
+11. Laparoscopic instrument detection with a new image segmentation algorithm (GNSTIS), The first international conference on Electronic health, Iran, 2012, (with Mohammad Mehdi Sepehri and Pejman,Shadpour).
+12. Time series representation and clustering with directional distance based features (DDBF), 9th international conference on electronics, computer and computation (ICECCO), Turkey, 2012, (with Mohammad Mehdi Sepehri and Pejman Shadpour).
+13. Design a comprehensive framework for evaluationg the readiness of starting surgical operation based on surgical cancellation reduction, The first international conference on Electronic health, Iran, 2012, (with Roghiyeh Khasha and Mohammad Mehdi Sepehri).
+14. Devising Novel Algorithms for Information Extraction from Live Laparoscopic Imaging, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Pejman Shadpour and Mohammad Mehdi Sepehri).
+16. Enhancing the Process of Image Recording Through Intelligent Analysis of Motion in the Camera and Laparoscopic Instruments, 5th Iranian Endourology & Urolaparoscopy Society Congress (IEUS), 2012, (with Shadpour Pejman and Mohammad Mehdi Sepehri).
 ## Academic book
 Ontologies: Methodologies, Tools and Languages, Tarbiat modares university press, 2011, (with Asoushe Abbas, Mehrasa Shohreh, Khakshour Saadat Parisa). 
 ## Book Chapters
