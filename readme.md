@@ -87,8 +87,8 @@
 ![pandas](https://img.shields.io/badge/Pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit-learn-FF0000?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langhchain, langgraph, transformers
-![langchain](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FLangChain%2F&psig=AOvVaw1qBtFfu2LeSDnM-Qk3hInY&ust=1735795692010000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjx9_vk04oDFQAAAAAdAAAAABAE),
-![langgraph](https://www.google.com/imgres?q=langgraph%20icon&imgurl=https%3A%2F%2Flangchain-ai.github.io%2Flanggraph%2Fstatic%2Fwordmark_dark.svg&imgrefurl=https%3A%2F%2Flangchain-ai.github.io%2Flanggraph%2F&docid=2GBetSSbIcaCiM&tbnid=5SBP27JKXHRFxM&vet=12ahUKEwi14s_Q5dOKAxWE1AIHHYijIRIQM3oECBYQAA..i&w=1622&h=251&hcb=2&ved=2ahUKEwi14s_Q5dOKAxWE1AIHHYijIRIQM3oECBYQAA),
+![langchain](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FLangChain%2F&psig=AOvVaw1qBtFfu2LeSDnM-Qk3hInY&ust=1735795692010000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjx9_vk04oDFQAAAAAdAAAAABAE)
+![langgraph](https://www.google.com/imgres?q=langgraph%20icon&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*Z1NtI1D-YEGBJfb7bW4MIA.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40hao.l%2Fwhy-langgraph-stands-out-as-an-exceptional-agent-framework-44806d969cc6&docid=Cx8yyhCF3nj2KM&tbnid=BogELsxXJdLqIM&vet=12ahUKEwjko4KA59OKAxUN0gIHHSfPFgIQM3oECF0QAA..i&w=1400&h=225&hcb=2&ved=2ahUKEwjko4KA59OKAxUN0gIHHSfPFgIQM3oECF0QAA)
 ![transformers](https://pypi-camo.freetls.fastly.net/d60a70af6de88eae24a88d3c21d81adbfb7d3b6c/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6c696768742e737667)
 - Computer Vision and Image Processing: Open-CV, Scikit-Image, Pillow
 ![opencv](https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=opencv&logoColor=white)
