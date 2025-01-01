@@ -87,9 +87,9 @@
 ![pandas](https://img.shields.io/badge/Pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit-learn-FF0000?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - Agentic AI and Retrieval Augmented Generation (RAG) with Large Language Models (LLMs): Familiarity with langhchain, langgraph, transformers
-![langchain](langchain(1).jpg)
-![langgraph](langgraph(1).png)
-![transformers](transformers.jpg)
+![langchain](langchain (1).jpg)
+![langgraph](langgraph (1).png)
+![transformers](transformers (1).jpg)
 - Computer Vision and Image Processing: Open-CV, Scikit-Image, Pillow
 ![opencv](https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/Scikit-Image-FF0000?style=for-the-badge&logo=scikit-image&logoColor=white)
