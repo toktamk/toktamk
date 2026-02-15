@@ -4,6 +4,20 @@
 - Google Scholar Profile: https://scholar.google.com/citations?user=qmy_4oEAAAAJ&hl=en
 
 # Top Projects
+## Multimodal Survival Modeling • Clinical ML • Fairness-Aware AI
+I design reproducible machine learning systems for clinical risk prediction with a strong focus on:
+
+- Multimodal modeling (clinical + omics)
+
+- Survival analysis & time-to-event modeling
+
+- Calibration science
+
+- Algorithmic fairness in healthcare
+
+- Robustness & reproducibility
+The repository link[BreastCancerStudy]
+
 ## Generative AI (based on Computer Vision and NLP)
 - Generating radiological reports from chest X-ray images: [GenerateRadiologyReportFromChestXrays ](https://github.com/toktamk/GenerateRadiologyReportFromChestXrays)
 - Generating images from texts: [GeneratingText2Image](https://github.com/toktamk/GeneratingText2Image)
@@ -193,5 +207,6 @@ Ontologies: Methodologies, Tools and Languages, Tarbiat modares university press
 ## Book Chapters
 1.	New Features Extracted from Renal Stone NCCT Images to Predict Retreatment After Shockwave Lithotripsy (SWL), In: Elham Akhondzadeh Noughabi, Bijan Rahemi, Amir Albadvi and Behrooz H. Far.(ed.), Handbook of Research on Data Science for Effective Healthcare Practice and Administration, IGI Global, 2018, 296-316, (with Mohammad Mehdi Sepehri, Mohammad Javad Soleimani and Pejman Shadpour).
 2.	Applications of Image Processing in Laparoscopic Surgeries: An Overview, In: Elham Akhondzadeh Noughabi, Bijan Rahemi, Amir Albadvi and Behrooz H. Far.(ed.), Handbook of Research on Data Science for Effective Healthcare Practice and Administration, IGI Global, 2018, 317-344, (with Mohammad Mehdi Sepehri, Pejman Shadpour and Seyyed Hesamoddin Zegordi).
+
 
 
