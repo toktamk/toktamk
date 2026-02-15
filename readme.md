@@ -16,7 +16,7 @@ I design reproducible machine learning systems for clinical risk prediction with
 - Algorithmic fairness in healthcare
 
 - Robustness & reproducibility
-The repository link[BreastCancerStudy]
+ [BreastCancerStudy](https://github.com/toktamk/BreastCancerStudy)
 
 ## Generative AI (based on Computer Vision and NLP)
 - Generating radiological reports from chest X-ray images: [GenerateRadiologyReportFromChestXrays ](https://github.com/toktamk/GenerateRadiologyReportFromChestXrays)
@@ -207,6 +207,7 @@ Ontologies: Methodologies, Tools and Languages, Tarbiat modares university press
 ## Book Chapters
 1.	New Features Extracted from Renal Stone NCCT Images to Predict Retreatment After Shockwave Lithotripsy (SWL), In: Elham Akhondzadeh Noughabi, Bijan Rahemi, Amir Albadvi and Behrooz H. Far.(ed.), Handbook of Research on Data Science for Effective Healthcare Practice and Administration, IGI Global, 2018, 296-316, (with Mohammad Mehdi Sepehri, Mohammad Javad Soleimani and Pejman Shadpour).
 2.	Applications of Image Processing in Laparoscopic Surgeries: An Overview, In: Elham Akhondzadeh Noughabi, Bijan Rahemi, Amir Albadvi and Behrooz H. Far.(ed.), Handbook of Research on Data Science for Effective Healthcare Practice and Administration, IGI Global, 2018, 317-344, (with Mohammad Mehdi Sepehri, Pejman Shadpour and Seyyed Hesamoddin Zegordi).
+
 
 
 
