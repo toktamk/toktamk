@@ -20,21 +20,30 @@ I design reproducible machine learning systems for clinical risk prediction with
 
 ## Medical Image (Brain MRIs) Analysis  for Brain Tumor Type Identification and Grade Determination
 [Brain MRI Analysis](https://github.com/toktamk/BrainMRIAnalysis)
+
 A research-grade, modular framework for hierarchical brain MRI tumor classification.
 
 This repository integrates four complementary modeling paradigms:
 
-Contrastive Learning (SimCLR-style self-supervision)
-Attention-Based Multi-Instance Learning (MIL)
-Graph Neural Networks (GNN)
-Probabilistic Model Ensemble (MIL + GNN + SSL)
+- Contrastive Learning (SimCLR-style self-supervision)
+
+- Attention-Based Multi-Instance Learning (MIL)
+
+- Graph Neural Networks (GNN)
+
+- Probabilistic Model Ensemble (MIL + GNN + SSL)
+
 The framework is designed for:
 
-Patient-level modeling
-Hierarchical tumor type → grade prediction
-Reproducible experimentation
-Robust evaluation with ROC / PR / confusion matrices
-Modular cross-paradigm comparison and fusion
+- Patient-level modeling
+
+- Hierarchical tumor type → grade prediction
+
+- Reproducible experimentation
+
+- Robust evaluation with ROC / PR / confusion matrices
+
+- Modular cross-paradigm comparison and fusion
 
 
 # Top Projects (Private Repositories)
@@ -226,6 +235,7 @@ Ontologies: Methodologies, Tools and Languages, Tarbiat modares university press
 ## Book Chapters
 1.	New Features Extracted from Renal Stone NCCT Images to Predict Retreatment After Shockwave Lithotripsy (SWL), In: Elham Akhondzadeh Noughabi, Bijan Rahemi, Amir Albadvi and Behrooz H. Far.(ed.), Handbook of Research on Data Science for Effective Healthcare Practice and Administration, IGI Global, 2018, 296-316, (with Mohammad Mehdi Sepehri, Mohammad Javad Soleimani and Pejman Shadpour).
 2.	Applications of Image Processing in Laparoscopic Surgeries: An Overview, In: Elham Akhondzadeh Noughabi, Bijan Rahemi, Amir Albadvi and Behrooz H. Far.(ed.), Handbook of Research on Data Science for Effective Healthcare Practice and Administration, IGI Global, 2018, 317-344, (with Mohammad Mehdi Sepehri, Pejman Shadpour and Seyyed Hesamoddin Zegordi).
+
 
 
 
