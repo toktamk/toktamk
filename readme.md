@@ -18,6 +18,16 @@ I design reproducible machine learning systems for clinical risk prediction with
 - Robustness & reproducibility
  [BreastCancerStudy](https://github.com/toktamk/BreastCancerStudy)
 
+## Prodution-ready End-to-End ML for • Taxi Trip Demand • Duration • Price Prediction
+I generated a production-ready end-to-end machine learning system for taxi trip prediction tasks focus on:
+
+-  Predicting trip demand, duration and price
+
+-  Covering data pipelines, feature engineering, and FastAPI deployment
+
+-  Demonstrating full ML lifecycle from raw data in real-world settings
+[Real-World-ML-System-End-to-End](https://github.com/toktamk/Real-World-ML-System-End-to-End)
+
 ## Medical Image (Brain MRIs) Analysis  for Brain Tumor Type Identification and Grade Determination
 [Brain MRI Analysis](https://github.com/toktamk/BrainMRIAnalysis)
 
