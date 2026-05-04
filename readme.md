@@ -4,6 +4,23 @@
 - Google Scholar Profile: https://scholar.google.com/citations?user=qmy_4oEAAAAJ&hl=en
 
 # Top Projects (Public Repositories)
+## Offline-First Clinical LLM System: Evaluation-Driven RAG Under Real-World Constraints
+This repository implements an end-to-end pipeline:
+
+- Clinical document ingestion and structured preprocessing
+- Semantic chunking with metadata preservation
+- Hybrid retrieval (sparse + dense) with ranking strategies
+- Local LLM-based generation (Mistral / LLaMA / Phi family)
+- Verification layer for hallucination detection and grounding enforcement
+- Evaluation suite (Recall@k, MRR, faithfulness, citation accuracy, latency, memory)
+
+The system is explicitly designed to prioritise:
+
+- Reliability over fluency
+- Measurable performance over subjective quality
+- Transparency via citations and failure analysis
+  [clinical-qa-rag-llm-evaluation-offline-first](https://github.com/toktamk/clinical-qa-rag-llm-evaluation-offline-first)
+  
 ## Multimodal Survival Modeling • Clinical ML • Fairness-Aware AI
 I design reproducible machine learning systems for clinical risk prediction with a strong focus on:
 
