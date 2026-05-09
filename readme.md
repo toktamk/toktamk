@@ -1,4 +1,4 @@
-# Hi, I'm Toktam: Senior Machine Learning Scientist | Clinical AI | LLM/RAG Systems | Medical Imaging | Survival Modelling | 60+ publications | h-index 18
+# Hi, I'm Toktam: Senior ML Research Scientist, Trustworthy Multimodal Healthcare AI, LLMs, Medical Imaging, Survival Modelling, Clinical RAG
 - Email: toktamk@gmail.com
 - Linkedin Profile: https://www.linkedin.com/in/toktamkhatibi77271683/
 - Google Scholar Profile: https://scholar.google.com/citations?user=qmy_4oEAAAAJ&hl=en
