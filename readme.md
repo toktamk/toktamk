@@ -12,7 +12,7 @@ I design reproducible, evaluation-driven AI systems for healthcare and clinical 
 
 ## Flagship Projects
 
-### Offline Clinical RAG for Healthcare
+### (Offline Clinical RAG for Healthcare)[https://github.com/toktamk/clinical-qa-rag-llm-evaluation-offline-first]
 
 Research-oriented clinical Retrieval-Augmented Generation (RAG) framework designed for privacy-sensitive and offline medical environments.
 
@@ -27,7 +27,7 @@ Research-oriented clinical Retrieval-Augmented Generation (RAG) framework design
 **Technical Stack**
 `Python` `LLMs` `RAG` `FAISS` `SentenceTransformers` `FastAPI` `Docker`
 
-### Multimodal Breast Cancer Survival Modelling
+### (Multimodal Breast Cancer Survival Modelling)[https://github.com/toktamk/BreastCancerStudy]
 
 End-to-end multimodal survival prediction framework using clinical, imaging, and molecular data for robust risk stratification.
 
@@ -45,7 +45,7 @@ End-to-end multimodal survival prediction framework using clinical, imaging, and
 **Technical Stack**
 `PyTorch` `Survival Analysis` `Deep Learning` `XGBoost` `SHAP` `Scikit-learn`
 
-### Brain MRI Analysis & Representation Learning
+### (Brain MRI Analysis & Representation Learning)[https://github.com/toktamk/BrainMRIAnalysis]
 
 Research on brain MRI analysis using self-supervised learning, graph neural networks, and multimodal deep learning.
 
