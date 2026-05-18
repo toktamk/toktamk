@@ -17,7 +17,30 @@ local/offline AI deployment
 
 ## Clinical AI Systems Ecosystem
 
+The repositories in this profile are designed around a broader clinical AI systems perspective rather than isolated model development. The ecosystem focuses on how retrieval, multimodal learning, evaluation, uncertainty handling, and deployment constraints interact within real-world healthcare AI workflows.
+
+The overall architecture reflects several recurring priorities across my projects:
+- evaluation-aware AI system design,
+- evidence-grounded clinical workflows,
+- offline and low-resource deployment,
+- reproducible experimentation,
+- and safe failure behaviour under uncertainty.
+
 ![Clinical AI Systems Ecosystem](images/ClinicalAISystemsEcoSystem.png)
+
+### Architectural Perspective
+
+The ecosystem separates retrieval, reasoning, verification, evaluation, and deployment concerns into modular components that can be independently analysed and improved.
+
+Instead of focusing only on benchmark optimisation, the repositories explore:
+- retrieval reliability,
+- calibration-aware modelling,
+- uncertainty-aware workflows,
+- citation-grounded generation,
+- multimodal evidence integration,
+- and operational robustness for healthcare AI systems.
+
+This design philosophy is particularly motivated by deployment-oriented healthcare environments where transparency, reproducibility, and failure-awareness are often as important as predictive performance itself.
 
 ## Selected Projects
 
