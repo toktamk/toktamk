@@ -137,6 +137,17 @@ When working with local/offline clinical AI systems, I gradually realised that i
 
 This changed the way I think about AI system development and evaluation in healthcare environments.
 
+## Engineering Perspective
+
+Across repositories, I generally prioritise:
+- modular experimentation,
+- deterministic workflows,
+- reproducible evaluation,
+- deployment-oriented benchmarking,
+- and transparent system behaviour under operational constraints.
+
+This perspective became increasingly important while working on offline and healthcare-oriented AI systems where reliability and traceability often matter as much as predictive performance itself.
+
 ## Links
 
 [**Google Scholar**](scholar.google.com/citations?user=qmy_4oEAAAAJ)
