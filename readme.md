@@ -15,6 +15,21 @@ My repositories mainly explore:
 - local/offline AI deployment
 - uncertainty-aware and reproducible machine learning workflows
 
+## Ecosystem Context
+
+This repository is part of a broader Clinical AI Systems Ecosystem exploring:
+- evidence-grounded healthcare AI,
+- multimodal patient modelling,
+- evaluation-aware machine learning,
+- reproducible experimentation,
+- and deployment-oriented clinical AI workflows.
+
+Other repositories in the ecosystem investigate:
+- clinical Retrieval-Augmented Generation (RAG),
+- multimodal survival modelling,
+- medical imaging representation learning,
+- and evidence-aware AI orchestration.
+  
 ## Current Focus
 
 My recent work mainly focuses on:
