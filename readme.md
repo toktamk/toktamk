@@ -12,8 +12,17 @@ My repositories mainly explore:
 - multimodal healthcare AI
 - medical imaging and representation learning
 - evaluation-aware AI systems
-local/offline AI deployment
+- local/offline AI deployment
 - uncertainty-aware and reproducible machine learning workflows
+
+## Current Focus
+
+My recent work mainly focuses on:
+- Clinical Retrieval-Augmented Generation (RAG)
+- Evaluation-aware healthcare AI systems
+- Multimodal survival modelling
+- Medical imaging representation learning
+- Offline and low-resource clinical AI deployment
 
 ## Clinical AI Systems Ecosystem
 
@@ -66,17 +75,17 @@ When I was working on clinical RAG systems, one important issue was not only hal
 
 Local/offline multi-agent clinical AI orchestration system for coordinating retrieval, evidence verification, uncertainty handling, and evaluation-aware reporting workflows.
 
-This repository explores how specialised agents can support safer clinical AI workflows under deployment constraints. The objective is not autonomous diagnosis. Instead, the focus is on separating retrieval, reasoning, verification, evaluation, and reporting into transparent and auditable components.
+ The system explores how specialised agents can coordinate retrieval validation, evidence verification, uncertainty-aware routing, and reporting workflows within clinically grounded AI pipelines. The objective is not autonomous diagnosis. Instead, the focus is on separating retrieval, reasoning, verification, evaluation, and reporting into transparent and auditable components.
 
 Main areas:
 
-multi-agent orchestration
-evidence verification workflows
-clinical retrieval coordination
-uncertainty-aware task routing
-evaluation-aware generation
-safe failure mechanisms
-local/offline deployment
+* multi-agent orchestration
+* evidence verification workflows
+* clinical retrieval coordination
+* uncertainty-aware task routing
+* evaluation-aware generation
+* safe failure mechanisms
+* local/offline deployment
 
 ### [Multimodal Survival Modelling](https://github.com/toktamk/BreastCancerStudy)
 
